@@ -272,11 +272,11 @@ node src/server.js
 ---
 ### Environment Variables
 
-Create a `.env` file in the root:
-Create a .env file using .env.example as reference
+* Create a `.env` file in the root:
+* Create a .env file using .env.example as reference
 
-JWT_SECRET=your_secret_key
-DATABASE_URL="file:./dev.db"
+* JWT_SECRET=your_secret_key
+* DATABASE_URL="file:./dev.db"
 
 ## 🌐 Server
 
